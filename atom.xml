@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://charles0122.github.io</id>
+    <id>https://coral520.github.io</id>
     <title>Charles</title>
-    <updated>2020-10-16T15:26:12.296Z</updated>
+    <updated>2020-10-17T04:46:48.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://charles0122.github.io"/>
-    <link rel="self" href="https://charles0122.github.io/atom.xml"/>
+    <link rel="alternate" href="https://coral520.github.io"/>
+    <link rel="self" href="https://coral520.github.io/atom.xml"/>
     <subtitle>自知        上进       知足        理性</subtitle>
-    <logo>https://charles0122.github.io/images/avatar.png</logo>
-    <icon>https://charles0122.github.io/favicon.ico</icon>
+    <logo>https://coral520.github.io/images/avatar.png</logo>
+    <icon>https://coral520.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Charles</rights>
     <entry>
         <title type="html"><![CDATA[HTML标签]]></title>
-        <id>https://charles0122.github.io/HTMLtag/</id>
-        <link href="https://charles0122.github.io/HTMLtag/">
+        <id>https://coral520.github.io/HTMLtag/</id>
+        <link href="https://coral520.github.io/HTMLtag/">
         </link>
         <updated>2020-10-16T11:06:31.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-html常用标签">1. HTML常用标签</h1>
@@ -176,8 +176,8 @@
 <p>此处有练习题</p>
 <p><strong>重点掌握点：</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2602979"><label class="task-list-item-label" for="task-item-2602979"> 请说出 图像标签那个属性是必须要写的？</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3189463"><label class="task-list-item-label" for="task-item-3189463"> 请说出 图像标签中 alt 和  title 属性区别？</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8017346"><label class="task-list-item-label" for="task-item-8017346"> 请说出 图像标签那个属性是必须要写的？</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4819301"><label class="task-list-item-label" for="task-item-4819301"> 请说出 图像标签中 alt 和  title 属性区别？</label></li>
 </ul>
 <h2 id="15-链接标签重点">1.5 链接标签(重点)</h2>
 <p>单词缩写：  anchor 的缩写  [ˈæŋkə(r)] 。基本解释 锚, 铁锚 的</p>
@@ -212,8 +212,8 @@
 </ol>
 <p><strong>重点掌握点：</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-946437"><label class="task-list-item-label" for="task-item-946437"> 请说出 链接标签那个属性是必须要写的？</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6034583"><label class="task-list-item-label" for="task-item-6034583"> 请说出 如何新窗口打开这个一个链接网页的？</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-526449"><label class="task-list-item-label" for="task-item-526449"> 请说出 链接标签那个属性是必须要写的？</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9814911"><label class="task-list-item-label" for="task-item-9814911"> 请说出 如何新窗口打开这个一个链接网页的？</label></li>
 </ul>
 <h2 id="16-注释标签">1.6 注释标签</h2>
 <p>在HTML中还有一种特殊的标签——注释标签。如果需要在HTML文档中添加一些便于阅读和理解但又不需要显示在页面中的注释文字，就需要使用注释标签。</p>
@@ -428,8 +428,8 @@ XHTML 是更严格更纯净的 HTML 代码。
     </entry>
     <entry>
         <title type="html"><![CDATA[认识HTML]]></title>
-        <id>https://charles0122.github.io/knowHTML/</id>
-        <link href="https://charles0122.github.io/knowHTML/">
+        <id>https://coral520.github.io/knowHTML/</id>
+        <link href="https://coral520.github.io/knowHTML/">
         </link>
         <updated>2020-10-16T10:47:57.000Z</updated>
         <content type="html"><![CDATA[<h1 id="1-html-初识">1. HTML 初识</h1>
@@ -600,16 +600,16 @@ XHTML 是更严格更纯净的 HTML 代码。
 <p>**请问下列哪组标签关系是错误的？ **</p>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2831867"> <head> </head><body> <label class="task-list-item-label" for="task-item-2831867"> <head> </head><body> </body></label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6887704"> <head> </head><body> <label class="task-list-item-label" for="task-item-6887704"> <head> </head><body> </body></label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-996069"> <div> <strong></strong> <label class="task-list-item-label" for="task-item-996069"> <div> <strong></strong> </div></label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3846817"> <div> <strong></strong> <label class="task-list-item-label" for="task-item-3846817"> <div> <strong></strong> </div></label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3087653"> <head> <title></head> <label class="task-list-item-label" for="task-item-3087653"> <head> <title></head> </title></label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4423304"> <head> <title></head> <label class="task-list-item-label" for="task-item-4423304"> <head> <title></head> </title></label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9328114"> <body> <div></div> <label class="task-list-item-label" for="task-item-9328114"> <body> <div></div> </body></label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8608637"> <body> <div></div> <label class="task-list-item-label" for="task-item-8608637"> <body> <div></div> </body></label></p>
 </li>
 </ul>
 <h1 id="2-代码开发工具书写代码">2. 代码开发工具（书写代码）</h1>
@@ -753,8 +753,8 @@ XHTML 是更严格更纯净的 HTML 代码。
     </entry>
     <entry>
         <title type="html"><![CDATA[Web标准]]></title>
-        <id>https://charles0122.github.io/Webstandard/</id>
-        <link href="https://charles0122.github.io/Webstandard/">
+        <id>https://coral520.github.io/Webstandard/</id>
+        <link href="https://coral520.github.io/Webstandard/">
         </link>
         <updated>2020-10-16T09:20:42.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1-认识网页">1. 认识网页</h2>
@@ -922,8 +922,8 @@ Microsoft Edge：EdgeHTML</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[UE4虚幻引擎学习记录]]></title>
-        <id>https://charles0122.github.io/UE4/</id>
-        <link href="https://charles0122.github.io/UE4/">
+        <id>https://coral520.github.io/UE4/</id>
+        <link href="https://coral520.github.io/UE4/">
         </link>
         <updated>2020-10-04T11:34:39.000Z</updated>
         <content type="html"><![CDATA[<p>下载安装UE4 4.25<br>
@@ -933,8 +933,8 @@ Microsoft Edge：EdgeHTML</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[学成在线网站开发实战]]></title>
-        <id>https://charles0122.github.io/study-OL/</id>
-        <link href="https://charles0122.github.io/study-OL/">
+        <id>https://coral520.github.io/study-OL/</id>
+        <link href="https://coral520.github.io/study-OL/">
         </link>
         <updated>2020-09-14T11:33:15.000Z</updated>
         <content type="html"><![CDATA[<img src="../post-images/web/web.png" />
@@ -959,8 +959,8 @@ psd文件准备
     </entry>
     <entry>
         <title type="html"><![CDATA[创建骨骼、分配权重、录制动画、精灵切换]]></title>
-        <id>https://charles0122.github.io/IK/</id>
-        <link href="https://charles0122.github.io/IK/">
+        <id>https://coral520.github.io/IK/</id>
+        <link href="https://coral520.github.io/IK/">
         </link>
         <updated>2020-09-09T11:32:32.000Z</updated>
         <content type="html"><![CDATA[<img src="../post-images/create/ik1.png" />
@@ -984,8 +984,8 @@ run_switch</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[《Hazard of Garcon》WebGL项目]]></title>
-        <id>https://charles0122.github.io/《Hazard of Garcon》WebGL项目/</id>
-        <link href="https://charles0122.github.io/《Hazard of Garcon》WebGL项目/">
+        <id>https://coral520.github.io/《Hazard of Garcon》WebGL项目/</id>
+        <link href="https://coral520.github.io/《Hazard of Garcon》WebGL项目/">
         </link>
         <updated>2020-09-07T11:31:42.000Z</updated>
         <content type="html"><![CDATA[<p>制作中。。。</p>
@@ -993,8 +993,8 @@ run_switch</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[游戏《Call of Companion》同名小说将在起点中文网发布]]></title>
-        <id>https://charles0122.github.io/游戏《Call of Companion》同名小说将在起点中文网发布/</id>
-        <link href="https://charles0122.github.io/游戏《Call of Companion》同名小说将在起点中文网发布/">
+        <id>https://coral520.github.io/游戏《Call of Companion》同名小说将在起点中文网发布/</id>
+        <link href="https://coral520.github.io/游戏《Call of Companion》同名小说将在起点中文网发布/">
         </link>
         <updated>2020-08-30T11:28:25.000Z</updated>
         <content type="html"><![CDATA[<p>该小说将作为游戏背景，游戏内设置的剧情模式，游戏内的地图名字也将采用小说中的地图名字<br>
@@ -1053,8 +1053,8 @@ https://m.qidian.com/book/1023469425/0</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[游戏《Call of Companion》对有兴趣的小伙伴征集原创稿件]]></title>
-        <id>https://charles0122.github.io/游戏《Call of Companion》对有兴趣的小伙伴征集原创稿件/</id>
-        <link href="https://charles0122.github.io/游戏《Call of Companion》对有兴趣的小伙伴征集原创稿件/">
+        <id>https://coral520.github.io/游戏《Call of Companion》对有兴趣的小伙伴征集原创稿件/</id>
+        <link href="https://coral520.github.io/游戏《Call of Companion》对有兴趣的小伙伴征集原创稿件/">
         </link>
         <updated>2020-08-29T11:27:50.000Z</updated>
         <content type="html"><![CDATA[<p>征集内容<br>
@@ -1095,8 +1095,8 @@ https://m.qidian.com/book/1023469425/0</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web前端学习笔记]]></title>
-        <id>https://charles0122.github.io/web前端学习笔记/</id>
-        <link href="https://charles0122.github.io/web前端学习笔记/">
+        <id>https://coral520.github.io/web前端学习笔记/</id>
+        <link href="https://coral520.github.io/web前端学习笔记/">
         </link>
         <updated>2020-08-29T11:26:35.000Z</updated>
         <content type="html"><![CDATA[<p>html<br>
